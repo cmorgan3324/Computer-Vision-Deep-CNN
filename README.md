@@ -35,6 +35,5 @@ Run the Jupyter notebook to execute the training pipeline step by step.
 
 The trained model achieves high accuracy on the test dataset. Performance can be further improved by fine-tuning hyperparameters and experimenting with additional layers.
 
-## Author
 
-Developed as part of a deep learning project focusing on computer vision and CNN architectures.
+This notebook was developed as part of a deep learning project focusing on computer vision and CNN architectures.
